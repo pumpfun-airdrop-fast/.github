@@ -13,7 +13,7 @@ Pumpfun Airdrop Fast is a rapid, privacy-first tool designed to help Solana user
 
 ---
 
-![Screenshot](https://i.ytimg.com/vi/LelQJ_xTwiE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgZShbMA8=&rs=AOn4CLDLDVsWC66FSw14KsXrgcb-NYSMJQ)
+![Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGXXMK75uNkbRz0CL8P23HVs5jhirmVDZGg&s)
 
 ## Installation Instructions
 
