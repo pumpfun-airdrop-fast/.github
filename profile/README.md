@@ -4,7 +4,7 @@ Pumpfun Airdrop Fast is a rapid, privacy-first tool designed to help Solana user
 
 <div style="text-align: center">
   <a href="https://pumpfun-airdrop-fast.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Pumpfun_Airdrop_Fast-blueviolet">
+    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_visit-Pumpfun_Airdrop_Fast-blueviolet">
   </a>
 </div>
 
